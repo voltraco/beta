@@ -1,5 +1,5 @@
 
-![img](logo.svg)
+![img](/logo.png)
 
 Hello, World! This is a public issue tracker for our products, *Voltra Desktop
 Player*, *Voltra Mobile Player* and other Voltra Co. services. We think you're
